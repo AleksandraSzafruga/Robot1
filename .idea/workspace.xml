@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f0d7ebd-b069-4ff0-9269-e3f0df65b74b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Robot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/RuchRobota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Althris\Robot" />
+        <option value="C:\Users\Althris\Robot\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -39,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -82,13 +90,29 @@
       <option name="presentableId" value="Default" />
       <updated>1583575410061</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit Robot">
+      <created>1583580541100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583580541100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit Robot" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Robot" />
   </component>
   <component name="WindowStateProjectService">
     <state x="581" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1583575748316">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="581" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583575748316" />
+    <state x="437" y="13" key="CommitChangelistDialog2" timestamp="1583580540128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583580540128" />
     <state x="556" y="183" key="FileChooserDialogImpl" timestamp="1583580492761">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -129,5 +153,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="284" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583575474817" />
+    <state x="374" y="174" key="Vcs.Push.Dialog.v2" timestamp="1583580548930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="374" y="174" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583580548930" />
   </component>
 </project>

@@ -48,6 +48,8 @@ public class Main {
                 //String -> enum odpowiedniego typu
                 RuchRobota ruch = RuchRobota.valueOf(rodzajRuchu.toUpperCase()); //konwersja
                 robot.poruszRobota(ruch); //wykonanie ruchu
+            } else if (!komenda.equalsIgnoreCase("quit")){
+                System.out.println("Nie rozpoznaję komendy");
             }
         } while (!komenda.equalsIgnoreCase("quit"));
     }
